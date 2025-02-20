@@ -1,3 +1,7 @@
+//Nama: Zaidan Zulkaisi Setiaji
+//NIM: 241524031
+//Kelas: D4-1A
+
 public class Soal2_Variables_Constant2 {
     public static final double CM_PER_INCH = 2.54;
     public static void main(String[] args) {
