@@ -1,3 +1,7 @@
+//Nama: Zaidan Zulkaisi Setiaji
+//NIM: 241524031
+//Kelas: D4-1A
+
 public class Soal4_Operators_ConvertData {
 
     static short methodOne(long l)
