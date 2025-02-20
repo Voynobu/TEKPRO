@@ -1,3 +1,7 @@
+//Nama: Zaidan Zulkaisi Setiaji
+//NIM: 241524031
+//Kelas: D4-1A
+
 import java.util.Scanner;
 
 public class Soal5_String {
