@@ -1,3 +1,6 @@
+//Nama: Zaidan Zulkaisi Setiaji
+//NIM: 241524031
+//Kelas: D4-1A
 import java.util.Scanner;//Digunakan agar dapat menerima input
 
 public class Soal1_DataTypes {
@@ -31,7 +34,7 @@ public class Soal1_DataTypes {
                 if (!valid) {
                     System.out.println(n + "can’t be fitted anywhere");
                 }
-            } catch (Exception e) {
+            } catch (Exception e) { 
                 System.out.println(scn.next() + " can't be fitted anywhere.");
             }
             i = i + 1;
